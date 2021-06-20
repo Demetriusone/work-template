@@ -1,0 +1,31 @@
+//fonts
+=font($alias, $name)
+   @font-face
+      font-family: $alias
+      src: url("../fonts/" + $name + ".eot")
+      src: url("../fonts/" + $name + ".eot?#iefix") format("embedded-opentype"), url("../fonts/" + $name + ".woff") format("woff"), url("../fonts/" + $name + ".woff2") format("woff2"), url("../fonts/" + $name + ".ttf") format("truetype")
+      font-weight: normal
+      font-style: normal
+
++font('fa-brands-400', 'fa-brands-400')
++font('fa-regular-400', 'fa-regular-400')
++font('fa-solid-900', 'fa-solid-900')
+
+
+=f($name, $font-size: null, $line-height: null, $letter-spacing: null)
+   $font-family: null
+   @if $name == "rg400"
+      $font-family: "fa-regular-400"
+   @if $name == "sl900"
+      $font-family: "fa-solid-900"
+   @if $name == "br400"
+      $font-family: "fa-brands-400"
+   font-family: $font-family, Arial, sans-serif
+   @if $font-family != null
+      font-weight: normal
+   @if $font-size != null
+      font-size: $font-size * 1px
+   @if $line-height != null
+      line-height: $line-height * 1px
+   @if $letter-spacing != null
+      letter-spacing: ($letter-spacing / 1000) * 1em

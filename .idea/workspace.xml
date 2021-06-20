@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39fb194b-b81c-41c1-8e8b-46c08a51748a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/app.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/_common.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_common.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/app.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/app.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/helpers/_all.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/helpers/_all.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/helpers/_helpers.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/helpers/_helpers.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/pages/home.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/pages/home.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/home.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/home.pug" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="415967" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+    <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>title</find>
+      <find>_white</find>
+      <find>conta</find>
+      <find>fu</find>
+      <find>tes</find>
+      <find>slider</find>
+      <find>info</find>
+      <find>Личностный опросник</find>
+      <find>pass</find>
+      <find>abo</find>
+      <find>IMG.decor</find>
+      <find>video</find>
+      <find>tri</find>
+      <find>191</find>
+      <find>servi</find>
+      <find>how-t</find>
+      <find>about</find>
+      <find>top: calc</find>
+      <find>anima</find>
+      <find>trai</find>
+      <find>отзы</find>
+      <find>train</find>
+      <find>оставит</find>
+      <find>Числовой тест</find>
+      <find>test</find>
+      <find>Заказать прохождение</find>
+      <find>serv</find>
+      <find>videos</find>
+      <find>babel</find>
+      <find>testim</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGulp">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+      <selected-paths>
+        <path>
+          <id value="$PROJECT_DIR$/package.json" />
+          <id value="start" />
+        </path>
+      </selected-paths>
+    </layout>
+  </component>
+  <component name="ProjectId" id="1qi6N76jT4QC31OOiTpsY14LYc7" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CSS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/nazar/Work/Aspirant/src/sass/components/_blocks.sass" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;Angular2HTML" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.jscs" value="C:\Users\osobe\OneDrive\Рабочий стол\new\node_modules\jscs" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js/sections" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39fb194b-b81c-41c1-8e8b-46c08a51748a" name="Default Changelist" comment="" />
+      <created>1536160472044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536160472044</updated>
+      <workItem from="1536160473400" duration="105000" />
+      <workItem from="1536160591343" duration="547000" />
+      <workItem from="1536162654975" duration="492000" />
+      <workItem from="1536163249427" duration="7464000" />
+      <workItem from="1536223397734" duration="38000" />
+      <workItem from="1536223453891" duration="9845000" />
+      <workItem from="1536241771804" duration="12767000" />
+      <workItem from="1536261989425" duration="11522000" />
+      <workItem from="1536312077413" duration="99000" />
+      <workItem from="1536312399567" duration="18206000" />
+      <workItem from="1536345553242" duration="9679000" />
+      <workItem from="1536359016289" duration="25361000" />
+      <workItem from="1536408482822" duration="415000" />
+      <workItem from="1617550023012" duration="2249000" />
+      <workItem from="1617555538100" duration="715000" />
+      <workItem from="1620631284554" duration="14000" />
+      <workItem from="1620631299122" duration="7599000" />
+      <workItem from="1620839248046" duration="6337000" />
+      <workItem from="1621019692491" duration="4705000" />
+      <workItem from="1621066362365" duration="3686000" />
+      <workItem from="1621449209312" duration="6756000" />
+      <workItem from="1621793055972" duration="3811000" />
+      <workItem from="1622229308979" duration="5879000" />
+      <workItem from="1622749381144" duration="4584000" />
+    </task>
+    <task id="LOCAL-00001" summary="upd">
+      <created>1536344834207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536344834207</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upd">
+      <created>1536348839257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536348839257</updated>
+    </task>
+    <task id="LOCAL-00003" summary="upd">
+      <created>1536360090092</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536360090092</updated>
+    </task>
+    <task id="LOCAL-00004" summary="upd">
+      <created>1536361076128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1536361076128</updated>
+    </task>
+    <task id="LOCAL-00005" summary="upd">
+      <created>1536391433878</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1536391433878</updated>
+    </task>
+    <task id="LOCAL-00006" summary="upd">
+      <created>1536392152213</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536392152213</updated>
+    </task>
+    <task id="LOCAL-00007" summary="upd">
+      <created>1536396315968</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536396315969</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upd">
+      <created>1536406178183</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1536406178183</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="672" y="314" key="#JSCS" timestamp="1617550764478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="314" key="#JSCS/0.0.1920.1040@0.0.1920.1040" timestamp="1617550764478" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617550919064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617550919064" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1620847201918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1620847201918" />
+    <state x="784" y="422" key="Github.CreateGistDialog" timestamp="1617551932058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="422" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617551932058" />
+    <state width="1877" height="388" key="GridCell.Tab.0.bottom" timestamp="1617551262848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617551262848" />
+    <state width="1877" height="388" key="GridCell.Tab.0.center" timestamp="1617551262848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617551262848" />
+    <state width="1877" height="388" key="GridCell.Tab.0.left" timestamp="1617551262848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617551262847" />
+    <state width="1877" height="388" key="GridCell.Tab.0.right" timestamp="1617551262848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617551262848" />
+    <state x="395" y="230" key="RollbackChangesDialog" timestamp="1621068822499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="395" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621068822499" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1617552290766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617552290766" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1621104099772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1621104099772" />
+  </component>
+</project>

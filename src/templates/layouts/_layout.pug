@@ -1,0 +1,33 @@
+include ../bemto/index
+include ../mixins/all
+include ../partials/_popups
+
+doctype html
+html(lang='ru')
+
+  block variables
+
+  head
+    meta(charset="utf-8")
+    title= title || 'Template'
+    meta(http-equiv="X-UA-Compatible" content="IE=Edge")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    meta(name="theme-color" content="#fff")
+    meta(name="format-detection" content="telephone=no")
+    link(href="/img/fav/" rel="shortcut icon")
+    link(rel="apple-touch-icon" href="/img/fav/")
+    link(rel="stylesheet" media="all" href="css/app.css")
+
+  block body
+    body(class= bodyClass)
+
+
+
+      block content
+
+      block modals
+       
+
+      //LOAD SCRIPTS
+      block scripts
+        script(src="js/app.js")
