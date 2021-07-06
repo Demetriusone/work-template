@@ -2,10 +2,6 @@ import objectFitImages from 'object-fit-images';
 import objectFitVideos from 'object-fit-videos';
 import { $scrolledElements, $body, Resp, detectIE } from './_helpers';
 
-
-
-
-
 export class Common {
   constructor() {
     this.init();
