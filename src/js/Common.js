@@ -10,37 +10,11 @@ export class Common {
   init() {
     objectFitImages();
     objectFitVideos();
-    this.screenScroll();
-    this.expandText();
     this.addClassIE();
   }
 
   addClassIE() {
     if (detectIE()) $body.addClass('is-ie');
-  }
-
-  screenScroll() {
-    const $btn = $('.screen__descr-btn');
-
-    $btn.on('click', function () {
-      const offsetTop = Resp.isDesk ? 70 : 60;
-      $scrolledElements.animate({
-        scrollTop: $('#pass').offset().top - offsetTop
-      }, 2000);
-      return false;
-    });
-  }
-
-  expandText() {
-    const $btn = $('.js-expand-btn');
-
-    $btn.each(function (i, $btn) {
-      $($btn).on('click', (e) => {
-        const $this = $(e.currentTarget);
-        $this.parent().prev().slideDown();
-        $this.parent().addClass('hidden');
-      });
-    });
   }
 }
 
