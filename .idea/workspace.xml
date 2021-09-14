@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39fb194b-b81c-41c1-8e8b-46c08a51748a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,6 +219,8 @@
       <workItem from="1622749381144" duration="4584000" />
       <workItem from="1625563021890" duration="101000" />
       <workItem from="1631642038749" duration="1179000" />
+      <workItem from="1631643235246" duration="746000" />
+      <workItem from="1631644697849" duration="783000" />
     </task>
     <task id="LOCAL-00001" summary="upd">
       <created>1536344834207</created>
@@ -277,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536406178183</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="upd">
+      <created>1631643361257</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1631643361257</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,51 +308,5 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="upd" />
     <option name="LAST_COMMIT_MESSAGE" value="upd" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="672" y="314" key="#JSCS" timestamp="1617550764478">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="672" y="314" key="#JSCS/0.0.1920.1040@0.0.1920.1040" timestamp="1617550764478" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617550919064">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617550919064" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1620847201918">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1620847201918" />
-    <state x="784" y="422" key="Github.CreateGistDialog" timestamp="1617551932058">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="784" y="422" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617551932058" />
-    <state width="1877" height="388" key="GridCell.Tab.0.bottom" timestamp="1617551262848">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617551262848" />
-    <state width="1877" height="388" key="GridCell.Tab.0.center" timestamp="1617551262848">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617551262848" />
-    <state width="1877" height="388" key="GridCell.Tab.0.left" timestamp="1617551262848">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617551262847" />
-    <state width="1877" height="388" key="GridCell.Tab.0.right" timestamp="1617551262848">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617551262848" />
-    <state x="395" y="230" key="RollbackChangesDialog" timestamp="1621068822499">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="395" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621068822499" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1617552290766">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617552290766" />
-    <state x="623" y="225" key="search.everywhere.popup" timestamp="1621104099772">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1621104099772" />
   </component>
 </project>
